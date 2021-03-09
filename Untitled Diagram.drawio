@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T03:08:03.266Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="MCrAePS-tBKlpB3_JmQY" version="14.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-09T03:16:11.715Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="L2csOoWbGJNXwYTwG3jU" version="14.4.5" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="801" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="0_HCHztZwqL7vgN5y4f--9" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="0_HCHztZwqL7vgN5y4f--14">
           <mxGeometry x="30" y="140" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0_HCHztZwqL7vgN5y4f--7" value="total_volume_gallons float " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="0_HCHztZwqL7vgN5y4f--9">
+        <mxCell id="0_HCHztZwqL7vgN5y4f--7" value="total_volume_USD float " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="0_HCHztZwqL7vgN5y4f--9">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0_HCHztZwqL7vgN5y4f--8" value="sale_year integer NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="0_HCHztZwqL7vgN5y4f--9">
