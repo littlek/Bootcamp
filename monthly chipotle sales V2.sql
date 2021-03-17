@@ -37,7 +37,7 @@ SELECT * FROM dual
 
 
 
---- Which year did Chipotle make the most guacamole profit?  They made the most sales in 2018. 
+--- Which year did Chipotle make the most guacamole profit?  Chipotle sold the most guacamole in 2018. 
 Select type as product,  sum (sales.total_volume_usd) as profit, sale_year as Year
 from product 
 LEFT JOIN   
